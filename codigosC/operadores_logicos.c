@@ -14,16 +14,16 @@ int main(){
         printf("Sua nota e MS.");
     }
     else if (nota>=5 && nota<7) {
-        printf("Sua nota e M.");
+        printf("Sua nota e MM.");
     }
     else if (nota>=3 && nota<5) {
         printf("Sua nota e IM.");
     }
     else if (nota>=1 && nota<3) {
-        printf("Sua nota e I.");
+        printf("Sua nota e II.");
     }
     else if (nota>=0 && nota<1) {
-        printf("Sua nota e II");
+        printf("Sua nota e SR");
     }
 
     return 0;
